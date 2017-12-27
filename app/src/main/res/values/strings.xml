@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Side Project</string>
+    <string name="action_settings">Settings</string>
+    <string name="play_game">Play Game</string>
+    <string name="title_game">Find the Coops</string>
+    <string name="explain_game">You will be given a picture. If you can find the coop in the picture you get a point. Do you want to play?</string>
+    <string name="yes_play">YES</string>
+    <string name ="no_play">NO</string>
+    <string name = "ok">OK</string>
+    <string name="find_coop">find this coop</string>
+    <string name="Where_coop">Where is the Coop?</string>
+    <string name="EXIT">EXIT</string>
+    <string name="HERE"></string>
+    <string name="GAMEOVER">GAME OVER!</string>
+    <string name="gohome">HOME</string>
+</resources>
